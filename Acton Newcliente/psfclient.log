@@ -1,0 +1,22 @@
+== application started at Dec 19 2017 15:48:53
+PSFClient 0.6.2 rev 0 (devel) built on Jul  8 2013 for arch x86
+ERROR: Unable to load texture '/images/game/slots/head': unable to open file '/images/game/slots/head.png': O sistema não pode encontrar o caminho especificado.
+ERROR: Unable to load texture '/images/game/slots/back': unable to open file '/images/game/slots/back.png': O sistema não pode encontrar o caminho especificado.
+ERROR: Unable to load texture '/images/game/slots/neck': unable to open file '/images/game/slots/neck.png': O sistema não pode encontrar o caminho especificado.
+ERROR: Unable to load texture '/images/game/slots/ammo': unable to open file '/images/game/slots/ammo.png': O sistema não pode encontrar o caminho especificado.
+ERROR: Unable to load texture '/images/game/slots/right-hand': unable to open file '/images/game/slots/right-hand.png': O sistema não pode encontrar o caminho especificado.
+ERROR: Unable to load texture '/images/game/slots/body': unable to open file '/images/game/slots/body.png': O sistema não pode encontrar o caminho especificado.
+ERROR: Unable to load texture '/images/game/slots/left-hand': unable to open file '/images/game/slots/left-hand.png': O sistema não pode encontrar o caminho especificado.
+ERROR: Unable to load texture '/managerwindow/SpellBar.png': unable to open file '/managerwindow/SpellBar.png': O sistema não pode encontrar o caminho especificado.
+== application started at Dec 19 2017 15:48:55
+PSFClient 0.6.2 rev 0 (devel) built on Jul  8 2013 for arch x86
+ERROR: Unable to load texture '/images/game/slots/head': unable to open file '/images/game/slots/head.png': O sistema não pode encontrar o caminho especificado.
+ERROR: Unable to load texture '/images/game/slots/back': unable to open file '/images/game/slots/back.png': O sistema não pode encontrar o caminho especificado.
+ERROR: Unable to load texture '/images/game/slots/neck': unable to open file '/images/game/slots/neck.png': O sistema não pode encontrar o caminho especificado.
+ERROR: Unable to load texture '/images/game/slots/ammo': unable to open file '/images/game/slots/ammo.png': O sistema não pode encontrar o caminho especificado.
+ERROR: Unable to load texture '/images/game/slots/right-hand': unable to open file '/images/game/slots/right-hand.png': O sistema não pode encontrar o caminho especificado.
+ERROR: Unable to load texture '/images/game/slots/body': unable to open file '/images/game/slots/body.png': O sistema não pode encontrar o caminho especificado.
+ERROR: Unable to load texture '/images/game/slots/left-hand': unable to open file '/images/game/slots/left-hand.png': O sistema não pode encontrar o caminho especificado.
+ERROR: Unable to load texture '/managerwindow/SpellBar.png': unable to open file '/managerwindow/SpellBar.png': O sistema não pode encontrar o caminho especificado.
+Exiting application..
+Exiting application..
